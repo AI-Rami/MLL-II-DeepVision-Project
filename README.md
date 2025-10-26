@@ -77,7 +77,7 @@ Training loss and test accuracy plots.
 
 Feature map visualization from the first convolutional layer.
 
-Expected accuracy: around 78%.
+Expected accuracy: around 79%.
 
 Part 2 – Transfer Learning
 
