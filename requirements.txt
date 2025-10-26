@@ -1,0 +1,8 @@
+# Core libraries
+torch
+torchvision
+torchaudio
+
+# Utilities
+numpy
+matplotlib
